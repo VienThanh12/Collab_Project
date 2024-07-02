@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/yourusername/aichatbot.git
    cd aichatbot
-   Create a Virtual Environment
+   npm install
 
 2. **Create a Virtual Environment**
 
