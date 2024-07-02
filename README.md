@@ -42,3 +42,15 @@ Before you begin, ensure you have met the following requirements:
     ```bash
     pip install -r requirements.txt
 
+### Contibuting
+
+Contributions are welcome! 
+
+### License
+
+This project is licensed under the MIT License.
+
+### Contact 
+
+If you have any questions or suggestions, please feel free to reach out to the project maintainer at Vien.Ha@nokia.com
+
